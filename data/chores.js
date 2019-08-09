@@ -12,3 +12,6 @@ chores = [
         completed: false
     }
 ]
+
+
+module.exports = chores;

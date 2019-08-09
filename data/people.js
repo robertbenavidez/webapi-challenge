@@ -10,3 +10,6 @@ people = [
         
     }
 ]
+
+
+module.exports = people;
